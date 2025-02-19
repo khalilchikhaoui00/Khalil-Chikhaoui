@@ -9,7 +9,7 @@ About Me
 
     💻 Skilled in Python, C, SQL, and tools like Pandas, NumPy, Scikit-learn, and Tableau.
 
-    📊 Certified in Data Science (IBM), Machine Learning, and Cloud Computing (Google Cloud).
+    📊 Certified in Data Science (IBM), Machine Learning.
 
     🌐 Fluent in Arabic, French, and English.
 Technical Skills
